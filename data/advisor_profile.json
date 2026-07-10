@@ -1,0 +1,13 @@
+{
+  "professor": "Varun Chandola",
+  "university": "University at Buffalo (SUNY)",
+  "program": "CSE PhD",
+  "research_area": "Data mining, anomaly detection, ML for scientific/spatial data",
+  "representative_paper": "Anomaly Detection: A Survey; 2009; ACM Computing Surveys",
+  "paper_link": "https://scholar.google.com/scholar?q=Anomaly+Detection%3A+A+Survey",
+  "project_family": "ml",
+  "focus": "Data mining",
+  "value_add_artifact": "auditable ML model-card metric pack",
+  "next_step": "Replace seed records with a public decision-support dataset and document subgroup behavior.",
+  "generated_for": "professor outreach value-add starter"
+}
